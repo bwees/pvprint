@@ -1,4 +1,4 @@
-# Pharos Virtual Printer
+# pvprint
 
 Exposes virtual printers inside Google Chrome for automatic uploading to Pharos powered print hubs.
 
